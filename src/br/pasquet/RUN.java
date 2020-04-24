@@ -29,7 +29,7 @@ public class RUN extends JFrame {
 		setLocationRelativeTo(null);
 		setSize(646,535);
 		setResizable(false);
-		setTitle("TRABALHO: Orientação a Objeto Avançada");
+		setTitle("TRABALHO Orientação a Objeto Avançada: Sockets & Threads");
 		
 		
 		contentPane = new JPanel();
